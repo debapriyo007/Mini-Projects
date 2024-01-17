@@ -1,6 +1,6 @@
 # 🚀 Mini Projects
 
-This folder contains a collection of mini projects that I have worked on. Each project is a small, self-contained piece of code that demonstrates a specific concept or solves a particular problem.
+**This folder contains a collection of mini projects that I have worked on. Each project is a small, self-contained piece of code that demonstrates a specific concept or solves a particular problem.**
 
 ## Project 1: Docs Of Quotes 🔥
 
