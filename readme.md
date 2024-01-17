@@ -6,7 +6,7 @@
 
 - #### **Description of the project.**
 
-- **A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations.You have to Drag each card and see the crazy effects**
+- **A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations.You have to Drag each cards and see the crazy effects.**
 
 ## 👉 [**Visit Now**](https://quotesdocs.netlify.app/)
 
