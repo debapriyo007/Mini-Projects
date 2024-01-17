@@ -4,11 +4,11 @@ This folder contains a collection of mini projects that I have worked on. Each p
 
 ## Project 1: Docs Of Quotes 🔥
 
-Description of the project goes here.
+- #### **Description of the project.**
 
-A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations.
+- **A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations.**
 
-[See the Project](URL)
+## 👉 [**Visit Now**](https://quotesdocs.netlify.app/)
 
 
 Feel free to explore each project folder to learn more about the specific implementations and how to run them.
