@@ -8,6 +8,7 @@
 
 - **A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations.You have to Drag each cards and see the crazy effects.**
 
+![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Screenshot%202024-01-20%20at%209.29.07%E2%80%AFAM.png)
 ## 👉 [**Visit Now**](https://quotesdocs.netlify.app/)
 
 
