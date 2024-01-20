@@ -8,8 +8,12 @@
 
 - **A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations.You have to Drag each cards and see the crazy effects.**
 
-![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Screenshot%202024-01-20%20at%209.29.07%E2%80%AFAM.png)
+### 🔥 Best Things About This Project:
+- Use `Framer Motion`.
+- Each Crads are `Moveable` with some `cray animation`.
 ## 👉 [**Visit Now**](https://quotesdocs.netlify.app/)
+![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Screenshot%202024-01-20%20at%209.29.07%E2%80%AFAM.png)
+
 
 
 Feel free to explore each project folder to learn more about the specific implementations and how to run them.
