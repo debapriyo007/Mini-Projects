@@ -6,26 +6,37 @@
 
 - #### **Description of the project.**
 
-- **A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations.You have to Drag each cards and see the crazy effects.**
+- **A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations. You have to Drag each card and see the crazy effects.**
 
 ### 🔥 Best Things About This Project:
 - Use `Framer Motion`.
-- Each Crads are `Moveable` with some `cray animation`.
+- Each Card is `Moveable` with some `crazy animation`.
+
 ## 👉 [**Visit Now**](https://quotesdocs.netlify.app/)
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Screenshot%202024-01-20%20at%209.29.07%E2%80%AFAM.png)
 
+## 🏠 Running the Project Locally
+
+To run the project locally, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the necessary dependencies by running the following command:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server by running the following command:
+
+    ```bash
+    npm start
+    ```
+
+5. Open your web browser and visit `http://localhost:3000` to view the project.
+
+That's it! You should now be able to run the project locally on your machine. Enjoy! 🎉
 
 
-Feel free to explore each project folder to learn more about the specific implementations and how to run them.
 
-## Usage
 
-Instructions on how to use or run the projects can be found in each project's individual readme file.
-
-## Contributing
-
-If you would like to contribute to any of the projects or have suggestions for new mini projects, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
