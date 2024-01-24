@@ -15,6 +15,20 @@
 ## 👉 [**Visit Now**](https://quotesdocs.netlify.app/)
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Screenshot%202024-01-20%20at%209.29.07%E2%80%AFAM.png)
 
+## Project 2: GitHub Profile Finder 🔥
+
+- #### **Description of the project.**
+
+- **Welcome to GitHub Profile Finder, your go-to destination for effortlessly searching and discovering GitHub profiles based on usernames. Whether you're a developer, recruiter, or simply curious about someone's coding journey, and your details.**
+
+### 🔥 Highlight :
+- Use GitHub api `https://api.github.com/users`.
+- User Friendly
+- Easy To Use
+
+## 👉 [**Visit Now**]()
+![Image]()
+
 ## 🏠 Running the Project Locally
 
 To run the project locally, follow these steps:
