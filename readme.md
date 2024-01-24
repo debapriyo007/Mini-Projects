@@ -26,8 +26,8 @@
 - User Friendly
 - Easy To Use
 
-## 👉 [**Visit Now**]()
-![Image]()
+## 👉 [**Visit Now**](https://github-finder-debu.netlify.app/)
+![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Github%20finder.png)
 
 ## 🏠 Running the Project Locally
 
