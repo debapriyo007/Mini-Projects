@@ -29,9 +29,25 @@
 ## 👉 [**Visit Now**](https://github-finder-debu.netlify.app/)
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Github%20finder.png)
 
+
+## Project 3: Tic Tac Toe 🤓
+
+- #### **Description of the project.**
+
+- **The project combines HTML for structure, CSS for styling, and JavaScript for interactivity and game logic to create a fully functional Tic Tac Toe game playable in the web browser**
+
+### 🔥 Highlight :
+- Main Aim of this project is DOM Manipulation.
+- Easy To Play
+- Beautiful UI
+
+## 👉 [**Visit Now**]()
+![Image]()
+
+
 ## 🏠 Running the Project Locally
 
-To run the project locally, follow these steps:
+**To run the first project locally, follow these steps:**
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
