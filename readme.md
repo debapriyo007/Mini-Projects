@@ -42,7 +42,7 @@
 - Beautiful UI
 
 ## 👉 [**Visit Now**]()
-![Image]()
+![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Tic-Tac-Toe.png)
 
 
 ## 🏠 Running the Project Locally
