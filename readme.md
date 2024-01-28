@@ -26,7 +26,7 @@
 - Attractive UI.
 
 ## 👉 [**Visit Now**](https://landing-page-debu.netlify.app/)
-![Image]()
+![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Landing%20Page.png)
 
 
 ## Project 3: Tic Tac Toe 🤓
