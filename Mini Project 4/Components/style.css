@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-text-color: #183b56;
+    --secondary-text-color: #577592;
+    --accent-color: #2294ed;
+    --accent-color-dark: #1d69a3;
+    --padding-inline-section:20px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color: var(--primary-text-color);
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color: var(--primary-text-color);
+}
+h1{
+    font-size: 3rem;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    color: #2294ed;
+    font-weight: 500;
+}
+.container{
+    margin: 10rem 10rem 0;
+    max-width: 1180px;
+    justify-content: space-between;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.primary-btn{
+    background-color: var(--accent-color);
+    border-radius: 6px;
+    font-weight: 500;
+    color: #fff !important;
+    padding: 12px 25px;
+    box-shadow: 0 0 2px var(--secondary-text-color);
+    transition: 0.2s ease-out;
+}
+.primary-btn:hover{
+    background-color: var(--accent-color-dark);
+}
+.left-section img{
+    width: 600px;
+}
+.input-section {
+    flex-direction: column;
+    gap: 30px;
+}
+.right-section h1{
+    margin-bottom: 5rem;
+}
+
+
+.input-section input{
+    width:100%;
+    padding: 12px 24px;
+    font-size: 1.1rem;
+    border-radius: 20px;
+    border: 2px solid #2294ed;
+    outline: none;
+}
+
+.input-section input::placeholder{
+    font-size: 1rem;
+    font-family: 'Roboto';
+    font-weight: 500;
+    color: black;
+}
+.register-text{
+    color: #577592;
+    font-size: 15px;
+}
+.forgot-pass{
+    font-size: 13px;
+    margin-top: 1rem;
+    margin-left: -65%;
+}
+.bottom-section{
+    flex-direction: column;
+    gap: 2rem;
+}
+
+
+
