@@ -15,19 +15,18 @@
 ## 👉 [**Visit Now**](https://quotesdocs.netlify.app/)
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Screenshot%202024-01-20%20at%209.29.07%E2%80%AFAM.png)
 
-## Project 2: GitHub Profile Finder 🔥
+## Project 2: Clone Website 🎭
 
 - #### **Description of the project.**
 
-- **Welcome to GitHub Profile Finder, your go-to destination for effortlessly searching and discovering GitHub profiles based on usernames. Whether you're a developer, recruiter, or simply curious about someone's coding journey, and your details.**
+- **Recreating the appearance and functionality of an existing website by using HTML, CSS, and JavaScript.While paying attention to both its visual appearance and interactive functionalities.**
 
 ### 🔥 Highlight :
-- Use GitHub api `https://api.github.com/users`.
-- User Friendly
-- Easy To Use
+- Main Aim of this project is learn `CSS Property`.
+- Attractive UI.
 
-## 👉 [**Visit Now**](https://github-finder-debu.netlify.app/)
-![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Github%20finder.png)
+## 👉 [**Visit Now**](https://landing-page-debu.netlify.app/)
+![Image]()
 
 
 ## Project 3: Tic Tac Toe 🤓
@@ -43,6 +42,20 @@
 
 ## 👉 [**Visit Now**](https://tic-tac-toe-debu.netlify.app/)
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Tic-Tac-Toe.png)
+
+## Project 4: GitHub Profile Finder 🔥
+
+- #### **Description of the project.**
+
+- **Welcome to GitHub Profile Finder, your go-to destination for effortlessly searching and discovering GitHub profiles based on usernames. Whether you're a developer, recruiter, or simply curious about someone's coding journey, and your details.**
+
+### 🔥 Highlight :
+- Use GitHub api `https://api.github.com/users`.
+- User Friendly
+- Easy To Use
+
+## 👉 [**Visit Now**](https://github-finder-debu.netlify.app/)
+![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Github%20finder.png)
 
 
 ## 🏠 Running the Project Locally
