@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-text-color: #183b56;
+    --secondary-text-color: #577592;
+    --accent-color: #2294ed;
+    --accent-color-dark: #1d69a3;
+    --padding-inline-section:20px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color: var(--primary-text-color);
+}
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.3rem;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: var(--secondary-text-color);
+    font-size: 1.25rem;
+    line-height: 1.8rem;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+}
+
+/* ----- Utility Class ----- */
+
+.small-bold-text{
+    font-size: 1rem;
+    font-weight:600;
+}
+
+.container{
+    max-width: 1180px;
+    margin-inline: auto;  /*To make the container center */
+    padding-inline: var(--padding-inline-section);
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.hover-link{
+    color: var(--primary-text-color);
+    transition: 0.2s ease-out;
+}
+.hover-link:hover{
+    color: var(--accent-color);
+}
+
+.primary-btn{
+    background-color: var(--accent-color);
+    border-radius: 6px;
+    font-weight: 500;
+    color: #fff !important;
+    padding: 12px 24px;
+    box-shadow: 0 0 2px var(--secondary-text-color);
+    transition: 0.2s ease-out;
+}
+.primary-btn:hover{
+    background-color: var(--accent-color-dark);
+}
+.secondary-btn{
+    border: 0.5px solid var(--secondary-text-color);
+    border-radius: 6px;
+    font-weight: 500;
+    color: var(--primary-text-color) !important;
+    padding: 12px 24px;
+    transition: 0.2s ease-out;
+}
+.secondary-btn:hover{
+    border-color: var(--accent-color);
+    color: var(--accent-color) !important;
+}
+
+/*------ Banner CSS  -----*/
+
+.banner-text{
+    color: #fff;
+    padding: 15px 30px; /* Padding from top and Bottom :15px and left and Right:30px*/
+    text-align: center;
+}
+.top-banner{
+    background-color: #4fb3d4;
+    background-image: url(./assets/asset\ 30.png);
+    background-size: 300px;
+}
+
+
+/*----- Nav-Bar CSS --------*/
+.main-nav{
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.company-logo img{
+    width: 200px;
+}
+
+.nav-links ul{
+    justify-content: end;
+    gap: 40px;
+}
+.nav-links{
+    flex-basis: 730px;
+}
+
+/*--- Header-Section CSS ----*/
+
+header{
+    padding: 50px var(--padding-inline-section) 0;
+}
+.header-section{
+    justify-content: center;
+    gap: 50px;
+}
+.header-left{
+    max-width: 40vw;
+}
+.header-left h1{
+    margin-top: 20px;
+}
+.header-right img{
+    width: 600px;
+}
+.get-start-btn{
+    margin-top: 20px;
+}
+
+
+/* Company section */
+/* .company-section{
+    margin-top: 10rem;
+} */
+.company-header{
+    text-align: center;
+    margin-block: 30px; /* Ekbare Top r bottom a 30px margine lege jabe..*/
+    color: var(--primary-text-color);
+}
+.logs{
+    justify-content: space-between;/* To make space between each logo we r using this props.*/
+    flex-wrap: wrap; /* jokhon amar screen size choto hobe logo gulo ektar niche onno ta asbe*/
+}
+.logo{
+    height: 46px;
+
+}
+
+
+/* Feature Section */
+.features-section{
+    padding: 80px var(--padding-inline-section) 0;
+    background-image: url('./assets/asset\ 32.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.feature-header{
+    text-align: center;
+}
+.feature-header h2{
+    margin-bottom: 20px; 
+}
+.feature-cards{
+    flex-direction: column;
+    gap: 20px;
+    max-width: 30%;
+    text-align: center;
+}
+.feature-area{
+    margin-top: 30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+/* Big Feature Section */
+
+.big-features-section{
+    padding: 50px var(--padding-inline-section) 0;
+}
+.big-feauter-container{
+    gap: 30px;
+}
+
+.feature-img img{
+    width: 100%;
+}
+.feature-desc{
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+
+/* Example Section CSS */
+
+.example-header{
+    flex-direction: column;
+    gap: 20px;
+}
+
+.example-card{
+    width: 23%;
+    position: relative;
+    min-height: 300px;
+    background-color: black;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)) , url("./assets/asset\ 35.jpeg");
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: 0.2s ease-out;
+}
+
+.example-card:hover{
+    box-shadow: 0 0 20px #888;
+}
+.example-card:nth-child(2){
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)) , url("./assets/asset\ 34.jpeg");
+    background-size: cover;
+}
+.example-card:nth-child(3){
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)) , url("./assets/asset\ 36.jpeg");
+    background-size: cover;
+}
+.example-card:nth-child(4){
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)) , url("./assets/asset\ 37.jpeg");
+    background-size: cover;
+}
+.card-text{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    color: #fff;
+}
+.example-area{
+    justify-content: space-between;
+    margin-block: 30px;
+}
+
+
+
+
+/* -- CTA Section  CSS-- */
+
+.cta-section-container{
+    flex-direction: column;
+    gap: 30px;
+    color: #fff;
+}
+.cta-section{
+    background-color: #183b56;
+    padding: 120px var(--padding-inline-section) 80px;
+}
+.cta-section-container p{
+    color: #fff;
+    margin-top: 20px;
+    font-size: 1.07rem;
+}
+
+
+/* Footer Section CSS */
+
+footer{
+    padding-block:80px;
+    background-color: #ebf2fa;
+}
+.link-col{
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.footer-container{
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
+
+/* Sub Footer */
+
+.sub-footer{
+    background-color: #b9cde4;
+    padding: var(--padding-inline-section);
+}
+.sub-footer-container{
+    justify-content: center;
+    gap: 20px;
+}
+/* .social-icon{
+    font-size: 24px;
+} */
+
+.footer-text{
+    font-family: "Roboto";
+    font-weight: 500;
+}
