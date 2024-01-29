@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="media-query.css">
     <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
     <title>Usability Hub | Landing Page</title>
 </head>
@@ -23,7 +24,7 @@
                 <img src="./assets/asset 1.png" alt="Company Logo">
             </a>
 
-            <div class="nav-links">
+            <div class="nav-links " id="active-links">
                 <ul class="flex">
                     <li><a href="#" class="hover-link">Products</a></li>
                     <li><a href="#" class="hover-link">Customers</a></li>
@@ -33,6 +34,9 @@
                     <li><a href="#" class="hover-link primary-btn">Sign up</a></li>
                 </ul>
             </div>
+            <a class="nav-toggle hover-link" id="menu-toggle" href="#">
+                <i class="fa-solid fa-bars"></i>
+            </a>
         </div>
     </nav>
 
@@ -167,7 +171,7 @@
     </section>
     <!-- Feature Image and Text Section 2 -->
     <section class="big-features-section">
-        <div class="container flex big-feauter-container" style="flex-direction: row-reverse;">
+        <div class="container flex big-feauter-container" id="second-big-feature">
             <div class="feature-img">
                 <img src="./assets/asset 21.png" alt="">
             </div>
@@ -285,5 +289,6 @@
 
     
     <script src="https://kit.fontawesome.com/a0fd8a37ad.js" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
 </body>
 </html>

@@ -51,6 +51,7 @@ ul{
     max-width: 1180px;
     margin-inline: auto;  /*To make the container center */
     padding-inline: var(--padding-inline-section);
+    overflow: hidden; /*To remove the white spaces */
 }
 .flex{
     display: flex;
@@ -72,6 +73,7 @@ ul{
     padding: 12px 24px;
     box-shadow: 0 0 2px var(--secondary-text-color);
     transition: 0.2s ease-out;
+    text-align: center;
 }
 .primary-btn:hover{
     background-color: var(--accent-color-dark);
@@ -107,6 +109,7 @@ ul{
 .main-nav{
     margin-top: 20px;
     justify-content: space-between;
+    position: relative; /* This is done for left side bar*/
 }
 .company-logo img{
     width: 200px;
@@ -118,6 +121,10 @@ ul{
 }
 .nav-links{
     flex-basis: 730px;
+}
+
+.nav-toggle{
+    display: none; /* Jokon ami 991px er upor jabo amar hamburger icon ta remove hoya jabe.*/
 }
 
 /*--- Header-Section CSS ----*/
@@ -136,7 +143,7 @@ header{
     margin-top: 20px;
 }
 .header-right img{
-    width: 600px;
+    width: 100%; /* Screen choto bror hobar sathe sathe image er size ta choto boro hobe */
 }
 .get-start-btn{
     margin-top: 20px;
@@ -153,8 +160,9 @@ header{
     color: var(--primary-text-color);
 }
 .logs{
-    justify-content: space-between;/* To make space between each logo we r using this props.*/
+    justify-content: space-evenly;/* To make space between each logo we r using this props.*/
     flex-wrap: wrap; /* jokhon amar screen size choto hobe logo gulo ektar niche onno ta asbe*/
+    gap: 20px;
 }
 .logo{
     height: 46px;
@@ -172,6 +180,7 @@ header{
 
 .feature-header{
     text-align: center;
+    margin-bottom: 40px;
 }
 .feature-header h2{
     margin-bottom: 20px; 
@@ -186,7 +195,7 @@ header{
     margin-top: 30px;
     flex-wrap: wrap;
     justify-content: space-between;
-    gap: 40px;
+    gap: 20px;
 }
 
 /* Big Feature Section */
@@ -206,13 +215,20 @@ header{
     align-items: flex-start;
 }
 
-
+#second-big-feature{
+    flex-direction: row-reverse;
+}
 
 /* Example Section CSS */
+
+.examples-section{
+    padding: 80px var(--padding-inline-section);
+}
 
 .example-header{
     flex-direction: column;
     gap: 20px;
+    text-align: center;
 }
 
 .example-card{
@@ -252,6 +268,7 @@ header{
 .example-area{
     justify-content: space-between;
     margin-block: 30px;
+    flex-wrap: wrap;  /* ata korar karon jate kore akta card er niche r akata card chole ase*/
 }
 
 
@@ -263,6 +280,7 @@ header{
     flex-direction: column;
     gap: 30px;
     color: #fff;
+    text-align: center;
 }
 .cta-section{
     background-color: #183b56;
@@ -310,3 +328,8 @@ footer{
     font-family: "Roboto";
     font-weight: 500;
 }
+
+
+
+
+
