@@ -22,7 +22,7 @@
 - **Recreating the appearance and functionality of an existing website by using HTML, CSS, and JavaScript.While paying attention to both its visual appearance and interactive functionalities.**
 
 ### 🔥 Highlight :
-- Main Aim of this project is learn `CSS Property`.
+- Main Aim of this project is learn `CSS Property` especially `Flex Properties`
 - Attractive UI.
 
 ## 👉 [**Visit Now**](https://landing-page-debu.netlify.app/)
