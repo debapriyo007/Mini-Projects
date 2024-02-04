@@ -4,6 +4,8 @@
 
 
 
+
+
 ## Project 1: Clone Website 🎭
 
 - #### **Description of the project.**
@@ -18,7 +20,33 @@
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Landing%20Page.png)
 
 
-## Project 2: Tic Tac Toe 🤓
+
+
+
+
+## Project 2: Password Generator 🔐 
+
+- #### **Description of the project.**
+
+- **The project combines HTML for structure, CSS for styling, and `JavaScript` for interactivity and create the logic behind how to generate password!**
+
+### 🔥 Highlight :
+- `Fisher Yates Method` apply to generate the Password.
+- Main Aim of this project is `DOM Manipulation`.
+- Best UI
+- Best User Exprience
+
+## 👉 [**Visit Now**](https://password-generator-debu.netlify.app/)
+![Image]()
+
+
+
+
+
+
+
+
+## Project 3: Tic Tac Toe 🤓
 
 - #### **Description of the project.**
 
@@ -32,7 +60,17 @@
 ## 👉 [**Visit Now**](https://tic-tac-toe-debu.netlify.app/)
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Tic-Tac-Toe.png)
 
-## Project 3: GitHub Profile Finder 🔥
+
+
+
+
+
+
+
+
+
+
+## Project 4: GitHub Profile Finder 🔥
 
 - #### **Description of the project.**
 
