@@ -2,20 +2,9 @@
 
 **This folder contains a collection of mini projects that I have worked on. Each project is a small, self-contained piece of code that demonstrates a specific concept or solves a particular problem.**
 
-## Project 1: Docs Of Quotes 🔥
 
-- #### **Description of the project.**
 
-- **A delightful web project that brings a touch of magic to your daily dose of inspiration! Immerse yourself in a world of uplifting quotes presented in the form of captivating cards, with some crazy motion animations. You have to Drag each card and see the crazy effects.**
-
-### 🔥 Best Things About This Project:
-- Use `Framer Motion`.
-- Each Card is `Moveable` with some `crazy animation`.
-
-## 👉 [**Visit Now**](https://quotesdocs.netlify.app/)
-![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Screenshot%202024-01-20%20at%209.29.07%E2%80%AFAM.png)
-
-## Project 2: Clone Website 🎭
+## Project 1: Clone Website 🎭
 
 - #### **Description of the project.**
 
@@ -29,7 +18,7 @@
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Landing%20Page.png)
 
 
-## Project 3: Tic Tac Toe 🤓
+## Project 2: Tic Tac Toe 🤓
 
 - #### **Description of the project.**
 
@@ -43,7 +32,7 @@
 ## 👉 [**Visit Now**](https://tic-tac-toe-debu.netlify.app/)
 ![Image](https://raw.githubusercontent.com/debapriyo007/Mini-Projects/main/ReadMe%20Images/Tic-Tac-Toe.png)
 
-## Project 4: GitHub Profile Finder 🔥
+## Project 3: GitHub Profile Finder 🔥
 
 - #### **Description of the project.**
 
@@ -64,19 +53,7 @@
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Install the necessary dependencies by running the following command:
 
-    ```bash
-    npm install
-    ```
-
-4. Start the development server by running the following command:
-
-    ```bash
-    npm start
-    ```
-
-5. Open your web browser and visit `http://localhost:3000` to view the project.
 
 That's it! You should now be able to run the project locally on your machine. Enjoy! 🎉
 
